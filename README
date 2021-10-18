@@ -1,0 +1,13 @@
+The purpose of CakeItApp is to test your skills and understanding of the Swift programming language and Apple’s Xcode IDE.
+
+Minimum functionality:
+
+No third party libraries should be used
+
+The app should run smoothly without any crashes
+
+When tapping on a cake, a detail view should appear showing the details about the cake selected
+
+You may change, adapt and improve as much of the app as you like and there is no limit to how long you take to complete the test, however we recommend it should take around 3 hours. It doesn’t need to be perfect so feel free to suggest a list of things you would add if you had more time.
+
+You may also provide a list of future improvements for the app.
